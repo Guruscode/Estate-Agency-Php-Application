@@ -727,7 +727,7 @@
                 </div>
                 <div class="testimonial-author-box">
                   <img src="img/mini-testimonial-1.jpg" alt="" class="testimonial-avatar">
-                  <h5 class="testimonial-author">Albert & Erika</h5>
+                  <h5 class="testimonial-author">john & Erika</h5>
                 </div>
               </div>
             </div>
