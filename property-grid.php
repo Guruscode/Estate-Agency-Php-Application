@@ -356,5 +356,7 @@
       </div>
     </div>
   </section>
-  <!--/ Property Grid End /-->
+
+  <!--/ END OF SECTION /-->
+<!-- fOOTER -->
 <?php include_once 'includes/footer.php'; ?>
